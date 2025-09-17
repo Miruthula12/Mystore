@@ -8,6 +8,7 @@ class MystoremiruApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("First change");
 	}
 
 }
